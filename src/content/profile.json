@@ -1,0 +1,373 @@
+{
+  "$schema": "../../schema/athlete.schema.json",
+  "slug": "giavonna-meeks",
+  "name": {
+    "first": "Giavonna",
+    "last": "Meeks",
+    "full": "Giavonna Meeks",
+    "preferred": "Gia"
+  },
+  "tagline": "She keeps breaking her own records.",
+  "headline": "Texas Track & Field · Hammer & Weight Throw",
+  "eventGroup": "throws",
+  "events": [
+    "Hammer throw",
+    "Weight throw",
+    "Shot put"
+  ],
+  "hometown": "Denver, Colorado",
+  "school": {
+    "name": "The University of Texas at Austin",
+    "major": "Communication & Leadership",
+    "classYear": "Senior",
+    "gradDate": "Expected May 2027"
+  },
+  "contact": {
+    "email": "giameeks22@gmail.com",
+    "instagram": "https://www.instagram.com/giavonna.meeks/",
+    "x": "https://x.com/GiavonnaMeeks"
+  },
+  "bio": {
+    "short": "Gia Meeks is a Texas hammer and weight thrower: the 2026 SEC indoor weight throw champion, an NCAA bronze medalist, a four-time First-Team All-American and the Longhorns' record holder in both events. In 2026 she was a Project Manager Intern at Feniex Industries.",
+    "long": [
+      "Gia Meeks is one of the most accomplished throwers in Texas history. She broke the Longhorns' weight throw record with her very first throw in burnt orange, then broke it again at each of her next two meets. In 2026 she won the SEC indoor title and took bronze at the NCAA Indoor Championships, the first All-America honor by a Texas woman in the event. Outdoors she set the Texas hammer record of 68.23m on her way to SEC silver. Her lifetime best, 68.94m, came for Cal at the 2025 NCAA Championships, where she placed fifth.",
+      "A Denver native, Meeks played club soccer, basketball and volleyball before a weightlifting coach at Northfield High School steered her toward throwing. Three years later she was a national high school champion in two events. At Vanderbilt she set school records and was named SEC Co-Freshman Field Athlete of the Year; at Cal she won two ACC titles; then she followed her throws coach to Texas, where she studies Communication & Leadership. She says competing for three programs taught her to be self-sufficient.",
+      "That self-sufficiency carries straight into project work. Meeks describes her competition routine simply: remember the cues from practice and execute them when it counts. As a Project Manager Intern at Feniex Industries in 2026, she brought the same preparation to cross-functional work at an Austin manufacturer of emergency-vehicle lighting and electronics, keeping schedules current, writing clear updates and documenting how work gets done. Employers get a calm, accountable communicator who has proven she performs best when the stakes are highest."
+    ]
+  },
+  "stats": [
+    {
+      "label": "Hammer throw lifetime best",
+      "value": "68.94m",
+      "note": "NCAA Outdoor Championships, 2025 (5th)"
+    },
+    {
+      "label": "Texas record, weight throw",
+      "value": "24.49m",
+      "note": "Tyson Invitational, 2026"
+    },
+    {
+      "label": "USTFCCCA First-Team All-America honors",
+      "value": "4x",
+      "note": "2024-2026"
+    },
+    {
+      "label": "NCAA indoor weight throw",
+      "value": "Bronze",
+      "note": "NCAA Indoor Championships, 2026"
+    }
+  ],
+  "prs": [
+    {
+      "event": "Hammer throw",
+      "mark": "68.94m",
+      "meet": "NCAA Outdoor Championships",
+      "year": "2025",
+      "indoor": false
+    },
+    {
+      "event": "Weight throw",
+      "mark": "24.49m",
+      "meet": "Tyson Invitational",
+      "year": "2026",
+      "indoor": true
+    },
+    {
+      "event": "Shot put",
+      "mark": "16.28m",
+      "meet": "Razorback Invitational",
+      "year": "2026",
+      "indoor": true
+    },
+    {
+      "event": "Shot put",
+      "mark": "15.77m",
+      "meet": "Clyde Littlefield Texas Relays",
+      "year": "2026",
+      "indoor": false
+    }
+  ],
+  "timeline": [
+    {
+      "year": "2022",
+      "title": "National high school champion",
+      "detail": "Won the weight throw at Nike Indoor Nationals and the hammer at Nike Outdoor Nationals for Northfield High School in Denver."
+    },
+    {
+      "year": "2023",
+      "title": "Pan American U20 champion",
+      "detail": "Won the USATF U20 hammer title, then the Pan American U20 crown for Team USA in Puerto Rico."
+    },
+    {
+      "year": "2024",
+      "title": "SEC Co-Freshman Field Athlete of the Year",
+      "detail": "Set Vanderbilt school records, earned First-Team All-America honors and competed in the hammer at the U.S. Olympic Trials."
+    },
+    {
+      "year": "2025",
+      "title": "Two ACC titles at Cal",
+      "detail": "Won the ACC weight throw and hammer, then placed fifth at the NCAA Championships with a 68.94m lifetime best."
+    },
+    {
+      "year": "2026",
+      "title": "SEC champion and NCAA bronze medalist",
+      "detail": "Set a Texas record on her first throw as a Longhorn, won the SEC indoor weight throw and set the Texas hammer record for SEC silver."
+    },
+    {
+      "year": "2026",
+      "title": "Project Manager Intern, Feniex Industries",
+      "detail": "Supported cross-functional project coordination at an Austin manufacturer of emergency-vehicle lighting and electronics."
+    }
+  ],
+  "honors": [
+    {
+      "title": "USTFCCCA First-Team All-American (4x)",
+      "year": "2024-2026"
+    },
+    {
+      "title": "SEC Indoor Weight Throw Champion",
+      "year": "2026"
+    },
+    {
+      "title": "NCAA Indoor Weight Throw Bronze Medalist",
+      "year": "2026"
+    },
+    {
+      "title": "USTFCCCA South Region Women's Indoor Field Athlete of the Year",
+      "year": "2026"
+    },
+    {
+      "title": "USTFCCCA Second-Team All-American, Hammer",
+      "year": "2026"
+    },
+    {
+      "title": "USTFCCCA All-Academic Team",
+      "year": "2026"
+    },
+    {
+      "title": "ACC Champion, Weight Throw and Hammer",
+      "year": "2025"
+    },
+    {
+      "title": "SEC Indoor Co-Freshman Field Athlete of the Year",
+      "year": "2024"
+    },
+    {
+      "title": "Pan American U20 Hammer Champion",
+      "year": "2023"
+    },
+    {
+      "title": "USATF U20 Hammer Champion",
+      "year": "2023"
+    }
+  ],
+  "inTheirWords": [
+    {
+      "quote": "It taught me how to be more self-sufficient.",
+      "source": "The Daily Texan",
+      "date": "2026-03-09"
+    },
+    {
+      "quote": "Remembering the cues from practice and executing those at these meets really sets my mind at ease, because I know what I have to do.",
+      "source": "The Daily Texan",
+      "date": "2026-03-09"
+    },
+    {
+      "quote": "(I'm) going into these meets feeling confident with my training and knowing what I'm capable of.",
+      "source": "The Daily Texan",
+      "date": "2026-03-09"
+    }
+  ],
+  "press": [
+    {
+      "title": "Junior transfer Giavonna Meeks gunning for program's first weight throw national title",
+      "outlet": "The Daily Texan",
+      "date": "2026-03-09",
+      "url": "https://thedailytexan.com/2026/03/09/junior-transfer-giavonna-meeks-gunning-for-programs-first-weight-throw-national-title/"
+    },
+    {
+      "title": "Track & Field's Meeks wins weight throw crown, sets facility record on day two of SEC Indoor Championships",
+      "outlet": "Texas Athletics",
+      "date": "2026-02-27",
+      "url": "https://texaslonghorns.com/news/2026/2/27/track-field-cross-country-texas-track-fields-meeks-wins-weight-throw-crown-sets-facility-record-on-day-2-of-sec-indoor-championships"
+    },
+    {
+      "title": "Meeks wins weight throw bronze on day one of NCAA Indoor Track & Field Championships",
+      "outlet": "Texas Athletics",
+      "date": "2026-03-13",
+      "url": "https://texaslonghorns.com/news/2026/3/13/track-field-cross-country-meeks-wins-weight-throw-bronze-to-lead-texas-on-day-one-of-ncaa-indoor-track-field-championships"
+    },
+    {
+      "title": "Meeks Places Fifth In Hammer, Named First-Team All-American",
+      "outlet": "Cal Athletics",
+      "date": "2025-06-12",
+      "url": "https://calbears.com/news/2025/6/12/track-field-meeks-places-fifth-named-first-team-all-american.aspx"
+    },
+    {
+      "title": "Hardwired: Giavonna Meeks and the path to greatness",
+      "outlet": "The Vanderbilt Hustler",
+      "date": "2024-04-26",
+      "url": "https://vanderbilthustler.com/2024/04/26/hardwired-giavonna-meeks-and-the-path-to-greatness/"
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Clutch under pressure",
+      "detail": "She won the 2026 SEC title on her opening throw and took NCAA bronze two weeks later, saving her best for the biggest meets."
+    },
+    {
+      "title": "Self-directed",
+      "detail": "Moving through three programs in three years taught her to hold herself accountable, including three months at Vanderbilt without a coach."
+    },
+    {
+      "title": "Process discipline",
+      "detail": "She competes by rehearsing her practice cues until they hold up under pressure, then executing them on meet day."
+    },
+    {
+      "title": "Raises the standard",
+      "detail": "She set program records at Vanderbilt and Texas, and a Vanderbilt teammate said her accomplishments elevated the whole group."
+    }
+  ],
+  "resume": {
+    "summary": "Communication & Leadership student and SEC champion thrower with Project Manager Intern experience at Feniex Industries. Four-time First-Team All-American who performs under pressure, adapts quickly across organizations and keeps teams aligned through clear, consistent communication.",
+    "experience": [
+      {
+        "role": "Project Manager Intern",
+        "org": "Feniex Industries",
+        "location": "Austin, TX",
+        "dates": "2026",
+        "bullets": [
+          "Coordinated project tasks across engineering, production and sales teams at an American manufacturer of emergency-vehicle lighting, sirens and controllers.",
+          "Prepared status updates and meeting notes to keep stakeholders aligned on schedules, open items and next steps.",
+          "Documented team processes and standard operating procedures to make handoffs between departments clearer.",
+          "Used Claude and other AI tools daily to draft communications, summarize project information and organize task lists."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "school": "The University of Texas at Austin",
+        "degree": "Bachelor's candidate, Communication & Leadership",
+        "dates": "2025-present (expected May 2027)",
+        "details": [
+          "USTFCCCA All-Academic Team (2026)",
+          "First-Year SEC Academic Honor Roll (2025-26)"
+        ]
+      },
+      {
+        "school": "Vanderbilt University; University of California, Berkeley",
+        "degree": "Undergraduate coursework before transferring to Texas",
+        "dates": "2022-2025",
+        "details": [
+          "Vanderbilt University, 2022-2024",
+          "UC Berkeley, 2025: All-ACC Academic; CSC Academic All-District"
+        ]
+      }
+    ],
+    "athletics": [
+      {
+        "role": "Thrower (Hammer, Weight Throw, Shot Put)",
+        "org": "University of Texas Track & Field, NCAA Division I (SEC)",
+        "dates": "2025-present",
+        "bullets": [
+          "Won the 2026 SEC Indoor weight throw title (24.44m) and NCAA Indoor bronze (24.11m), the first women's All-America honor in the event for Texas.",
+          "Set Texas program records in the weight throw (24.49m) and hammer (68.23m, SEC Outdoor silver).",
+          "Named 2026 USTFCCCA South Region Women's Indoor Field Athlete of the Year; All-SEC Indoor First Team."
+        ]
+      },
+      {
+        "role": "Thrower",
+        "org": "UC Berkeley (2025) and Vanderbilt University (2022-2024), NCAA Division I",
+        "dates": "2022-2025",
+        "bullets": [
+          "Won 2025 ACC titles in the weight throw (meet record) and hammer; placed 5th at NCAA Outdoors with a 68.94m lifetime best.",
+          "Named 2024 SEC Indoor Co-Freshman Field Athlete of the Year; set Vanderbilt records in the weight throw and hammer.",
+          "Won the 2023 Pan American U20 and USATF U20 hammer titles; competed at the 2024 U.S. Olympic Trials."
+        ]
+      }
+    ],
+    "leadership": [],
+    "skills": {
+      "core": [
+        "Project Coordination",
+        "Scheduling & Status Tracking",
+        "Stakeholder Communication",
+        "Process Documentation",
+        "Cross-Functional Collaboration",
+        "Written & Presentation Communication",
+        "Organizational Leadership"
+      ],
+      "tools": [
+        "Microsoft Excel",
+        "Microsoft Word & PowerPoint",
+        "Google Workspace",
+        "Claude (AI assistant)"
+      ],
+      "languages": []
+    },
+    "honors": [
+      {
+        "title": "USTFCCCA First-Team All-American (4x)",
+        "year": "2024-2026"
+      },
+      {
+        "title": "SEC Indoor Weight Throw Champion",
+        "year": "2026"
+      },
+      {
+        "title": "ACC Champion, Weight Throw and Hammer",
+        "year": "2025"
+      },
+      {
+        "title": "SEC Indoor Co-Freshman Field Athlete of the Year",
+        "year": "2024"
+      },
+      {
+        "title": "Pan American U20 Hammer Champion",
+        "year": "2023"
+      }
+    ]
+  },
+  "hamzaQuote": {
+    "text": "Gia set a Texas record on her very first throw as a Longhorn, and that tells you who she is: prepared, steady and ready when it counts. She brought the same calm, self-directed focus to every project at Feniex.",
+    "attribution": "Hamza Deyaf, Founder & CEO, Feniex Industries"
+  },
+  "images": {
+    "hero": "pro.jpg",
+    "resumeCrop": {
+      "x": 0.51,
+      "y": 0.42,
+      "zoom": 1.2
+    },
+    "portrait": "athlete.jpg",
+    "action": [
+      "action-1.jpg",
+      "action-2.jpg",
+      "action-3.jpg",
+      "action-4.jpg"
+    ],
+    "actionAlt": [
+      "Giavonna Meeks in Texas orange swinging the hammer at the 2026 SEC Outdoor Championships",
+      "Giavonna Meeks turning in the weight throw circle on her way to the 2026 SEC indoor title",
+      "Giavonna Meeks winding up a hammer throw at the 2026 Texas Relays in Austin",
+      "Giavonna Meeks throwing at the 2026 NCAA Indoor Championships, where she won bronze"
+    ],
+    "feature": "action-1.jpg",
+    "featureFocus": {
+      "x": 0.12,
+      "y": 0.4
+    }
+  },
+  "photoCredits": [
+    "Texas Athletics",
+    "Portraits: AI-assisted edits of official Texas Athletics headshots"
+  ],
+  "site": {
+    "url": "https://giavonna-meeks.vercel.app"
+  },
+  "seo": {
+    "title": "Giavonna Meeks | Texas Track & Field · Project Management",
+    "description": "Giavonna Meeks: Texas hammer and weight thrower, 2026 SEC champion, four-time First-Team All-American and Project Manager Intern at Feniex Industries."
+  },
+  "noindex": true
+}
